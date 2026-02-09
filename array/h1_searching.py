@@ -14,4 +14,4 @@ def linear_search(arr,target):
 result = linear_search(arr, target)
 
 if result != -1:
-    print("element found at indez" ,result)
+    print("element found at index" ,result)
