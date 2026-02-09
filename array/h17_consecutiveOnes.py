@@ -10,6 +10,6 @@ for i in arr:
         curr = 0
     else:
         curr +=1
-        res = max(res,curr). # just to keep the track of the variable value which can change we need another varible and why max because it can retain the value 
+        res = max(res,curr) # just to keep the track of the variable value which can change we need another varible and why max because it can retain the value 
 
 print(res)
