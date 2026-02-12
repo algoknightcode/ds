@@ -1,4 +1,4 @@
-# maximum sub array - sub array formula (n*(n+1))/2
+# to print  maximum sub array - sub array formula (n*(n+1))/2
 
 arr= [1,2,3,4,5]
 n = len(arr)
